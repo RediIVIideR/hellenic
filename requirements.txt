@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.7.1
+pandas==1.5.1
+gspread==5.7.1
+gspread-dataframe==3.3.0
